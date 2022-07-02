@@ -1,0 +1,26 @@
+Identifier(HI)
+Operator(:=)
+Identifier(HELLO)
+Operator(+)
+IntCont(25)
+EndOfLine
+Identifier(HELLO)
+Operator(++)
+Keyword(break)
+EndOfLine
+Identifier(HI)
+Operator(:=)
+Identifier(HELLO)
+Operator(+)
+IntCont(25)
+EndOfLine
+Identifier(HELLO)
+Operator(++)
+Keyword(break)
+EndOfLine
+StringConstant(this is a string)
+LeftCurlyBracket
+Keyword(continue)
+RightCurlyBracket
+Identifier(X)
+Operator(
